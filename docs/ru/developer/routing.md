@@ -27,6 +27,6 @@
 
 **backend** - Админ панель использует отдельный роутер Dvelum\App\Router\Backend 
 
-**console**  - Консольные прилодения используют роутер Dvelum\App\Router\Console, он работает с настройками запуска [консольных Action](console.md)
+**console**  - Консольные приложения используют роутер Dvelum\App\Router\Console, он работает с настройками запуска [консольных Action](console.md)
 
 
